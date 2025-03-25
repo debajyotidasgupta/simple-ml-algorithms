@@ -7,7 +7,7 @@ Simple implementations of core Machine Learning algorithms in Python. These algo
 - [Linear Regression](https://github.com/debajyotidasgupta/simple-ml-algorithms/blob/main/linear_regression.py)
 - [Logistic Regression](https://github.com/debajyotidasgupta/simple-ml-algorithms/blob/main/logistic_regression.py)
 - [Decision Trees](https://github.com/debajyotidasgupta/simple-ml-algorithms/blob/main/decision_tree.py)
-- [Naive Bayes]()
+- [Naive Bayes](https://github.com/debajyotidasgupta/simple-ml-algorithms/blob/main/naive_bayes.py)
 - [K-Nearest Neighbors]()
 - [Random Forests]()
 - [Support Vector Machines]()
